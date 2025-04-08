@@ -1,5 +1,4 @@
-# Прогнозирование риска возникновения сахарного диабета
 ## Интеллектуальный анализ клинических данных и прогнозирование риска возникновения сахарного диабета методами машинного обучения
 
-__Prediction_of_diabetes_mellitus(GUI).ipynb__ - код программы в формате Jupyter Notebook. Рекомендуется открывать с помощью Jupyter Notebook или Visual Studio Code
+__Prediction_of_diabetes_mellitus(GUI).ipynb__ - код программы в формате Jupyter Notebook. Рекомендуется открывать с помощью Jupyter Notebook или Visual Studio Code<br/>
 __diabetes.csv__ - данные для обучения модели
